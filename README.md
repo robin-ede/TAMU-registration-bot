@@ -24,7 +24,7 @@ This Python script continuously checks seat availability for a class at Texas A&
 
 1. Run the script:
    ```bash
-   python your_script_name.py
+   python main.py
    ```
 
 2. A Chrome browser window will open, navigating to the registration page.
