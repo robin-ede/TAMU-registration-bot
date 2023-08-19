@@ -29,8 +29,9 @@ This Python script continuously checks seat availability for a class at Texas A&
 
 2. A Chrome browser window will open, navigating to the registration page.
 3. Manually log in to the registration portal using your credentials.
-4. After logging in, go back to the terminal and press `Enter` to continue.
-5. The script will check for seat availability every 60 seconds. If a seat is available, you'll get a notification on Discord, and the browser will close automatically.
+4. After choosing your registration term, find the course you want to monitor under "Courses" and click on the sections button next to it to bring up all of the available sections.
+4. After navigating to the sections page of the class, go back to the terminal and press `Enter` to continue.
+5. The script will check for seat availability every 60 seconds. If a seat is available, you'll get a notification on Discord
 
 ## Notes
 
